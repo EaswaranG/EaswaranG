@@ -31,8 +31,9 @@ I constantly seek to learn and grow, keeping up-to-date with industry trends and
 
 <details>
  <summary><h3>👨‍💻 Easwaran's Coding Journey</h3></summary>
-   I started as a Software Developer at Virtusa Software Services and as a Senior Software Developer and Team Lead at IBM India.
-   At Virtusa, as a fresh Java Developer, I explored the IT world and took away good technical and functional learning from our client British Telecommunications.
+   I started as a Software Developer at Virtusa Software Services and Senior Software Developer and Team Lead at IBM India.
+
+At Virtusa, as a fresh Java Developer, I explored the IT world and took away good technical and functional learning from our client, British Telecommunications.
 
 * Assisting the development manager with all aspects of software design and coding.
 * Attending and contributing to company development meetings.
@@ -45,7 +46,6 @@ I constantly seek to learn and grow, keeping up-to-date with industry trends and
 * Writing reports.
 * Conducting development tests.
 
-As a fresh Java Developer, I explored the IT world and took away good technical and functional learning from our client, British Telecommunications. * Assisting the development manager with all aspects of software design and coding. * Attending and contributing to company development meetings. * Learn the codebase and improve your coding skills. * Writing and maintaining code. * Working on minor bug fixes. * Monitoring the technical performance of internal systems. * Responding to requests from the development team. * Gathering information from consumers about program functionality. * Writing reports. * Conducting development tests.
 
 At IBM India, I played a team lead role in creating a healthy environment for my team and delivering business-critical deliverables to our client, Honda Motors Europe.
 Responsible for implementing strategies team members use to achieve a goal, delegating tasks based on each member’s strengths and skills, and offering the training necessary to complete specific tasks. I am also responsible for inspiring and motivating team members with regular encouragement, keeping the enthusiasm going by providing individualized coaching when needed. Playing team lead role, creating a healthy environment for my team, and delivering business critical deliverables to our client Honda Motors Europe. Responsible for implementing strategies team members use to achieve a goal, delegating tasks based on each member’s strengths and skills, and offering the training necessary to complete specific tasks. I am also responsible for inspiring and motivating team members with regular encouragement, keeping the enthusiasm going by providing individualized coaching when needed.
