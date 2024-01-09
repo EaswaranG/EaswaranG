@@ -10,7 +10,7 @@ I constantly seek to learn and grow, keeping up-to-date with industry trends and
 
    <p align="left">
       <a href="https://www.youtube.com/playlist?list=PL0dJilFSY_frsqkOBo7bGduyfABO6uoA3">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://cdn.pixabay.com/photo/2021/06/02/12/44/youtube-6304381_1280.png"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    </p>
 
 ---
