@@ -1,5 +1,4 @@
 # 🏄‍♂️ Easwaran Govindarajan
-https://github.com/EaswaranG
 **` Software Developer (Ex-Virtusa / Ex-IBM) `**
 
 I am an experienced software developer with a strong background in Java application development. With a passion for creating high-quality, user-friendly software, I've honed my expertise in technologies such as Java, Azure, AWS cloud, SAP Hybris.
